@@ -1,0 +1,13 @@
+# git-begins
+
+cloner un repo terminal
+    git clone 'lien dans le git https'
+
+3 commandes de push
+
+git add 'nom du fichier'
+git commit -m 'mot explicites'
+git push
+
+ 
+  
