@@ -9,7 +9,7 @@ git add 'nom du fichier'
 git commit -m 'mot explicites'
 git push
 
-git pull "nom du fichier"
+git pull
 
  
   
